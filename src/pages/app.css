@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login{
+    background-color:purple;
+    padding: 15px;
+    margin: 5px;
+   height: 100vh;
+    
+}
+.head{
+    padding: 5px;
+}
+.head p{
+   margin-top: 5px;
+}
+.login__inside{
+    background-color: white;
+    padding: 15px;
+    margin:15px;
+    border-radius: 5px;
+}
+.login__input input{
+    padding: 5px;
+    margin-top: 8px;
+    border: solid 2px black;
+    border-radius: 2px;
+}
+.login__input input:hover{
+   cursor: grabbing;
+}
+
+button{
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+}
